@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsakshk" target="blank"><img src="https://img.shields.io/twitter/follow/itsakshk?logo=twitter&style=for-the-badge" alt="itsakshk" /></a> </p>
 
-- 🔭 I’m currently working on **Habit Tracker**
+- 🔭 I’m currently working on **NGO Impact Analyst App**
 
 - 🌱 I’m currently learning **MERN Stack, Prompt Engineering and fundamentals of AI/ML**
 
